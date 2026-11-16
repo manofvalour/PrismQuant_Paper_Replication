@@ -1,0 +1,7 @@
+torch
+transformers
+#math
+numpy
+ipykernel
+datasets
+huggingface_hub
